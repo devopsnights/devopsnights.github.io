@@ -9,8 +9,8 @@ name: Wesley Camargo
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/devopsnights/LogoPequeno.png
-
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/devopsnights/LogoPequeno.png
+avatar: https://raw.githubusercontent.com/devopsnights/blog/master/images/devopsnights/LogoPequeno.png
 
 #
 # Flags below are optional
