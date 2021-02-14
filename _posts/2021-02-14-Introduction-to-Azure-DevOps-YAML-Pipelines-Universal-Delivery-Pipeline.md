@@ -12,7 +12,7 @@ We are creating this project in lives on the [DevOps Nights channel](https://you
 
 In the first live we created a basic template to build an dotnet core application. Here I'll describe the steps that we did in the live.
 
-<iframe width="600" height="450" src="https://www.youtube.com/embed/hIkwU3CnJzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="450" src="https://www.youtube.com/embed/hIkwU3CnJzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Creating a dotnet core "client" application and a YAML build 
 
