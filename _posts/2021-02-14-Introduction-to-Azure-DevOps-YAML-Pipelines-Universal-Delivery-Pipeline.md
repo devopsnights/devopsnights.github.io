@@ -49,12 +49,28 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'Container'
 ```
-<!-- 
-<script src="http://gist-it.appspot.com/https://github.com/wesleycamargo/UDP-Application/blob/98b0aafa737b006d4dd0d9bbc5a529516df470c7/azure-pipelines.yml"></script> -->
+
 
 ## Creating template
 
-After chevk that we have a valid YAML able to build our application, we moved it to a first version of our template. It was in the same repo to keep the things simple in the begining.
+After check that we have a valid YAML able to build our application, we moved it to a first version of our template. It was in the same repo to keep the things simple in the begining.
+
+This is how the file structure looks like:
 
 
-
+```
+UDP-Application
+│   appsettings.Development.json
+│   appsettings.json
+│   azure-pipelines.yml
+│   Program.cs
+│   Startup.cs
+│   <span style="color:blue">*template.yml*</span> 
+│   UDP-Application.csproj
+│
+├───bin
+├───obj
+├───Pages
+├───Properties
+└───wwwroot
+```
