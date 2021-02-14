@@ -18,9 +18,8 @@ In the first live we created a basic template to build an dotnet core applicatio
 
 We had create an standar webapp application in dotnet core to be the "client" of our templates. 
 
-```cli
-dotnet new webapp
-```
+<script src="https://gist.github.com/wesleycamargo/dc48c73e5040c422b48176336779738a.js?file=newDotNetApp.ps1"></script>
+
 
 To show the steps from the begining, we started creating an standard YAML with build tasks, without template.
 
@@ -34,5 +33,22 @@ This is how the file structure looks like:
 
 <script src="https://gist.github.com/wesleycamargo/dc48c73e5040c422b48176336779738a.js?file=folderStructure.txt"></script>
 
+Pay attention that we have two files in the root:
+
+- azure-pipelines.yml
+- template.yml
+
+The file azure-pipelines.yml is the file that will consume the template.
+
+<script src="https://gist.github.com/wesleycamargo/dc48c73e5040c422b48176336779738a.js?file=azure-pipelines.yml"></script>
+
+
+The template.yml is the file that contains all the steps necessary to build our application.
+
+<script src="https://gist.github.com/wesleycamargo/dc48c73e5040c422b48176336779738a.js?file=template.yml"></script>
+
+These files are the result of what we did during the live. If you want to know how we achieve it, watch the video on the top of the post =].
+
+You can see the code at this stage on this tag: https://github.com/devopsnights/UDP-Application/releases/tag/v0.1
 
 
