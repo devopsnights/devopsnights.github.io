@@ -16,7 +16,7 @@ In the first live we created a basic template to build an dotnet core applicatio
 
 ## Creating a dotnet core "client" application and a YAML build 
 
-We had create an standar webapp application in dotnet core to be the "client" of our templates. 
+We had create an standard webapp application in dotnet core to be the "client" of our templates. 
 
 <script src="https://gist.github.com/wesleycamargo/dc48c73e5040c422b48176336779738a.js?file=newDotNetApp.ps1"></script>
 
@@ -47,7 +47,7 @@ The template.yml is the file that contains all the steps necessary to build our 
 
 <script src="https://gist.github.com/wesleycamargo/dc48c73e5040c422b48176336779738a.js?file=template.yml"></script>
 
-These files are the result of what we did during the live. You can see the code at this stage on this tag: https://github.com/devopsnights/UDP-Application/releases/tag/v0.1. If you want to know how we achieve it, watch the video on the top of the post =].
+These files are the result of what we did during the live. You can see the code at this stage on this [tag](https://github.com/devopsnights/UDP-Application/releases/tag/v0.1). If you want to know how we achieve it, watch the video on the top of the post =].
 
 
 
