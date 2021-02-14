@@ -6,7 +6,7 @@ tags: devops devopsnights yamlpipelines udp universaldeliverypipeline
 ---
 
 
-On the past Thursday my friend Emmanuel Brandão and I started an open source  project called UDP - Universal Delivery Pipeline that has the purpose to create build and deployment templates to deploy every kind of technology (dotnet, node, terraform, Java, etc), everywhere (public and private clouds such as Azure, AWS, GCP, VMWare, bare metal, etc).
+Past Thursday my friend Emmanuel Brandão and I started an open source  project called UDP - Universal Delivery Pipeline that has the purpose to create build and deployment templates to deploy every kind of technology (dotnet, node, terraform, Java, etc), everywhere (public and private clouds such as Azure, AWS, GCP, VMWare, bare metal, etc).
 
 We are creating this project in lives on the [DevOps Nights channel](https://youtu.be/hIkwU3CnJzU) and you can follow the progress every Thursday at 10 PM (CET) =).
 
