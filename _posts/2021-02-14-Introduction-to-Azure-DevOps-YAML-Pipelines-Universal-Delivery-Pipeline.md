@@ -24,7 +24,7 @@ dotnet new webapp
 
 To show the steps from the begining, we started creating an standard YAML with build tasks, without template.
 
-```yaml
+```
 trigger:
 - main
 
@@ -58,7 +58,7 @@ After check that we have a valid YAML able to build our application, we moved it
 This is how the file structure looks like:
 
 
-```
+
 UDP-Application
 │   appsettings.Development.json
 │   appsettings.json
@@ -73,4 +73,4 @@ UDP-Application
 ├───Pages
 ├───Properties
 └───wwwroot
-```
+
