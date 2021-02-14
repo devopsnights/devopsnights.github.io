@@ -24,32 +24,7 @@ dotnet new webapp
 
 To show the steps from the begining, we started creating an standard YAML with build tasks, without template.
 
-```
-trigger:
-- main
-
-pool:
-  vmImage: 'ubuntu-latest'
-
-steps:
-
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'build'
-
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'publish'
-    publishWebProjects: true
-    arguments: '--output $(Build.ArtifactStagingDirectory)'
-
-- task: PublishBuildArtifacts@1
-  inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'drop'
-    publishLocation: 'Container'
-```
-
+<script src="https://gist.github.com/wesleycamargo/dc48c73e5040c422b48176336779738a.js?file=azure-pipelines-v1.yml"></script>
 
 ## Creating template
 
@@ -57,20 +32,7 @@ After check that we have a valid YAML able to build our application, we moved it
 
 This is how the file structure looks like:
 
+<script src="https://gist.github.com/wesleycamargo/dc48c73e5040c422b48176336779738a.js?file=folderStructure.txt"></script>
 
 
-UDP-Application
-│   appsettings.Development.json
-│   appsettings.json
-│   azure-pipelines.yml
-│   Program.cs
-│   Startup.cs
-│   <span style="color:blue">*template.yml*</span> 
-│   UDP-Application.csproj
-│
-├───bin
-├───obj
-├───Pages
-├───Properties
-└───wwwroot
 
