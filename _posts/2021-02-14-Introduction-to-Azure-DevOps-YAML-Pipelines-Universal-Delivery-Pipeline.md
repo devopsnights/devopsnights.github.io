@@ -10,7 +10,7 @@ On the past Thursday my friend Emmanuel Brandão and I started an open source  p
 
 We are creating this project in lives on the [DevOps Nights channel](https://youtu.be/hIkwU3CnJzU) and you can follow the progress every Thursday at 10 PM (CET) =).
 
-In the first live we created a basic template to build an dotnet core application. Here I'll describe the steps that we did in the live.
+In the first live we created a basic template to build a dotnet core application. In this post, I'll describe the steps that we did in the live.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/hIkwU3CnJzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
