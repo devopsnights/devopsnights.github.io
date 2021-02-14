@@ -49,8 +49,8 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'Container'
 ```
-
-<script src="http://gist-it.appspot.com/https://github.com/wesleycamargo/UDP-Application/blob/98b0aafa737b006d4dd0d9bbc5a529516df470c7/azure-pipelines.yml"></script>
+<!-- 
+<script src="http://gist-it.appspot.com/https://github.com/wesleycamargo/UDP-Application/blob/98b0aafa737b006d4dd0d9bbc5a529516df470c7/azure-pipelines.yml"></script> -->
 
 ## Creating template
 
