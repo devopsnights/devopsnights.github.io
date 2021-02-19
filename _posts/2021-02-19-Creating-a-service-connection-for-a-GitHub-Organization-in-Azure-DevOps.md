@@ -22,6 +22,12 @@ There is no explicit way to do this. Although GitHub is an option in Service Con
 
 ## Linking the GitHub Organization
 
+To link your organization is under of all your personal repositories. So you need to go all the way to the to bottom, and them select an specific connection:
+
+![achieve](\../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/specificconnection.png)
+
+
+
 ---
 
 The UDP - Universal Delivery Pipeline is a set of YAML Pipelines templates that has the purpose to create build and deployment templates to deploy every kind of technology (dotnet, node, terraform, Java, etc), everywhere (public and private clouds such as Azure, AWS, GCP, VMWare, bare metal, etc).
