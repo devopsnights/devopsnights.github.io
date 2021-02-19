@@ -13,31 +13,37 @@ In the second live for create the UDP - Universal Delivery Pipeline, we showed h
 
 There is no explicit way to do this. Although GitHub is an option in Service Connections, it only links your personal account to Azure DevOps, so if you need to link your GitHub Organization it won't work.
 
-![Service Connection](\../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/githubspn.png | width=100)
+
+<img src="../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/githubspn.png" width="400">
 
 *There is an option to link, but...*
 
+<img src="../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/personalrepos.png" width="600">
 
-![alt](\../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/personalrepos.png)
+
 *Where is my org repo?*
 
 ## Linking the GitHub Organization
 
 The option to link your organization is under of all your personal repositories. So you need to go all the way to the to bottom, and them select an specific connection:
 
-![achieve](\../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/specificconnection.png)
+<img src="../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/specificconnection.png" width="600">
+
 
 And then it will open a screen with the option to install the GitHub App:
 
-![will enable ](\../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/installghapp.png)
+<img src="../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/installghapp.png" width="600">
+
 
 It will redirect you to a GitHub page to choose your organization:
 
-![it](../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/githubChooseOrg.png)
+<img src="../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/githubChooseOrg.png" width="600">
+
 
 Now you need to give some credentials and after this you will have a service connection ready to use!
 
-![alt](../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/serviceconnection.png)
+<img src="../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/serviceconnection.png" width="600">
+
 
 If you want more details, you can follow the video on the top of the post.
 
