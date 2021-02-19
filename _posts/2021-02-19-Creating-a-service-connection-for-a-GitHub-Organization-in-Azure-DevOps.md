@@ -26,6 +26,21 @@ To link your organization is under of all your personal repositories. So you nee
 
 ![achieve](\../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/specificconnection.png)
 
+And then it open a screen with the option to install the GitHub App:
+
+![will enable ](\../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/installghapp.png)
+
+It will redirect you to a GitHub page to choose your organization:
+
+![it](../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/githubChooseOrg.png)
+
+Now you need to give some credentials and after this you will have a service connection ready for use!
+
+![alt](../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/serviceconnection.png)
+
+If you want more details, you can follow the video on the top of the post.
+
+I hope it can be helpful and see you on the next post!
 
 
 ---
@@ -34,7 +49,7 @@ The UDP - Universal Delivery Pipeline is a set of YAML Pipelines templates that 
 
 We are creating this project in lives on the [DevOps Nights channel](https://youtu.be/hIkwU3CnJzU) and you can follow the progress every Thursday at 10 PM (CET) =).
 
-You can see the code and contribute on our GitHub [tag](https://github.com/devopsnights/UDP-Application). If you want to know how we did it, watch the video on the top of the post.
+You can see the code and contribute on our GitHub [tag](https://github.com/devopsnights/UDP-Application). 
 
 
 
