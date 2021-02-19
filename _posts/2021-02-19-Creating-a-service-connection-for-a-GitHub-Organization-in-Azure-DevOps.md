@@ -42,7 +42,7 @@ It will redirect you to a GitHub page to choose your organization:
 
 Now you need to give some credentials and after this you will have a service connection ready to use!
 
-<img src="../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/serviceconnection.png" width="600">
+<img src="../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/serviceconnection.png" width="300">
 
 
 If you want more details, you can follow the video on the top of the post.
