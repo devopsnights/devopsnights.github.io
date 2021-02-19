@@ -13,7 +13,8 @@ In the second live for create the UDP - Universal Delivery Pipeline, we showed h
 
 There is no explicit way to do this. Although GitHub is an option in Service Connections, it only links your personal account to Azure DevOps, so if you need to link your GitHub Organization it won't work.
 
-![Service Connection](\../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/githubspn.png)
+![Service Connection](\../images/posts/2021-02-19-Creating-a-service-connection-for-a-GitHub-Organization-in-Azure-DevOps/githubspn.png =100x)
+
 *There is an option to link, but...*
 
 
