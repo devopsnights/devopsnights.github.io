@@ -7,7 +7,7 @@ tags: devops devopsnights yamlpipelines udp universaldeliverypipeline github ser
 
 In the second live for create the UDP - Universal Delivery Pipeline, we showed how to create a Service Connection for your GitHub Organization in Azure DevOps. In this post I'll walk trough those steps.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/kJ1JoZrrwMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/kJ1JoZrrwMU?start=725" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The intuitive way doesn't work =/
 
